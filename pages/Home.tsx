@@ -115,7 +115,7 @@ const Home: React.FC = () => {
               className="md:col-span-4 md:row-span-1 relative group overflow-hidden rounded-sm h-64 md:h-auto"
             >
               <img
-                src="https://images.unsplash.com/photo-1595291133397-c19a84ac6680?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+                src="https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
                 alt="Chef Plating"
                 className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
               />
