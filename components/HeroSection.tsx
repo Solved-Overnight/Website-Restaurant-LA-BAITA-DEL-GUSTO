@@ -23,7 +23,7 @@ const HeroSection: React.FC = () => {
         style={{ 
           y,
           opacity,
-          backgroundImage: "url('https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?ixlib=rb-1.2.1')",
+          backgroundImage: "url('https://images.unsplash.com/photo-1663530761401-15eefb544889?ixlib=rb-1.2.1')",
         }}
         initial={{ scale: 1.1 }}
         animate={{ scale: 1.2 }}
